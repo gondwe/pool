@@ -1,0 +1,12 @@
+.widget-tabs-compact .widget-tabs-nav .nav-link {
+    height: 40px;
+    font-size: 7px;;
+}
+
+.widget-tabs-nav .font-icon {
+    display: block;
+    height: 53px;
+    overflow: hidden;
+    line-height: 70px;
+    font-size: 1.7rem;
+}
